@@ -7,4 +7,4 @@ title: Getting Started
 
 If you're new to Myrrhina, here are some resources to get you started.
 
-New to D&D? Start [[new-to-dnd|here]]. Never heard of West Marches? Try [[what-is-west-marches|this]].
+New to D&D? Start [[2022-07-06-new-to-dnd|here]]. Never heard of West Marches? Try [[2022-07-06-what-is-west-marches|this]].
