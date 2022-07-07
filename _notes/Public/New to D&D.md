@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: New to D&D
+feed: show
+date: 06-07-2022
 ---
 
 If you're new to D&D, here are some resources to get your started.
