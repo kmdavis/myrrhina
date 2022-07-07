@@ -6,5 +6,3 @@ layout: Post
 permalink: /
 title: Mysteries of Myrrhina
 ---
-
-Testing MD content on homepage
