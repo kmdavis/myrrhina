@@ -1,6 +1,7 @@
 ---
 title: What is West Marches?
 feed: hide
+permalink: /west-marches
 date: 06-07-2022
 ---
 

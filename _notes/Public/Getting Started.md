@@ -10,6 +10,11 @@ date: 06-07-2022
 
 ![Myrrhina from Orbit](assets/img/myrrhina-orbit.gif)
 
+* TOC
+{:toc}
+
+{:#setting}
+### The Setting
 _A courier hand delivers you a rolled up parchment. Upon opening it, you read the following:_
 
 > Welcome, Adventurer!
@@ -27,10 +32,15 @@ You are hereby invited to join us as we explore the Mysteries of Myrrhina, a Wes
 
 ![Sulveig Region](assets/img/sulveig-region-3d.png)
 
-In this game, you will be a member of an Adventurer's Guild based in Sulveig, a newly established colony. At the moment, Sulveig is... well... it's basically a huge construction site. Before long, it will be a large city, but at the moment, the wide, elegant tree lined avenues are dirt roads; the imposing stone wall is just a row of hastily sharpened stakes in the ground; the city gates, the bridge foundations, and the towering portals to the High City are naught but scaffolding and piles of stone blocks.
+In this game, you will be a member of an Adventurer's Guild based in Sulveig, a newly established colony. At the moment, Sulveig is... well... it's basically a huge construction site. Before long, it will be a large city, but at the moment, the wide, elegant tree lined avenues are dirt roads; the imposing stone wall is just a row of hastily sharpened stakes in the ground; the city gates, the bridge foundations, and the towering portals to the High City are naught but scaffolding and piles of stone blocks. The only inhabitations are a tent city in the middle.
 
 ![Sulveig City](assets/img/sulveig-city-500-03-01.jpeg)
 
-The City of Sulveig is built on the shores of the Sulveig River where the Marlseade River joins it and then flows to the sea. Beyond the city are forests and untilled fields; far to the northwest lie an imposing mountain range.
+The City of Sulveig is built on the shores of the Sulveig River where the Marlseade River joins it and then flows to the sea. Beyond the city are forests and meadows, while far to the northwest lie an imposing mountain range.
 
 ![Sulveig Region](assets/img/sulveig-region-500-03-01.png)
+
+{:#requirements}
+### What you will need to play this game
+- Discord is used for planning and coordinating activities between missions.
+- Roll20 is used for missions, and is where your character sheet(s) will live.
