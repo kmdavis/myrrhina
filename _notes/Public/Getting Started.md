@@ -9,4 +9,4 @@ date: 06-07-2022
 
 If you're new to Myrrhina, here are some resources to get you started.
 
-New to D&D? Start [[New to D&D|here]]. Never heard of West Marches? Try [[What is West Marches?|this]].
+[[New to D&D]]? Wondering [[What is West Marches?]]

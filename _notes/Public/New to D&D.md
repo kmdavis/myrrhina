@@ -9,4 +9,4 @@ date: 06-07-2022
 
 If you're new to D&D, here are some resources to get your started.
 
-Already know everything about D&D, but you're new to West Marches? Try starting [[What is West Marches?|here]].
+Already know everything about D&D, but you're wondering [[What is West Marches?]]

@@ -11,4 +11,4 @@ If you're new to West Marches, here are some resources to get you started.
 
 [[New to D&D]]?
 
-Already know everything about D&D and West Marches, but you're new to Myrrhina? Try starting [[Getting Started|here]].
+Already know everything about D&D and West Marches, but you're new to Myrrhina? Try starting [[Getting Started]].
