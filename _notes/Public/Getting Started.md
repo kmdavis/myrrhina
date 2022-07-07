@@ -4,6 +4,7 @@
 
 title: Getting Started
 feed: hide
+permalink: /getting-started
 date: 06-07-2022
 ---
 
@@ -13,9 +14,12 @@ _A courier hand delivers you a rolled up parchment. Upon opening it, you read th
 
 > Welcome, Adventurer!
 > 
+> 
 > The **High Council**, not wishing a repeat of the **Mortuus Rex** debacle, has ordained the creation of a new **Adventurer’s Guild**, to be tasked with the peaceful exploration of the new colony world of **Myrrhina**.
 > 
+> 
 > Congratulations! You have been chosen as one of the first adventurers to join this endeavor!
+> 
 > 
 > Please report to the _XS Tyberium_ at Pier 87 in the **Gallago District** of the **High City**, for transportation down to **Sulveig**!
 
