@@ -31,11 +31,11 @@
 
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Hiran Venugopalan" property="og:site_name" />
+    <meta content="Mysteries of Myrrhina" property="og:site_name" />
     <meta
-        content="Product and Type Designer | UI UX | Design Mentoring"
+        content="Mysteries of Myrrhina, a West Marches Experiment for Shopifolk"
         property="og:description">
-    <meta content="{{ site.url }}/about/" property="article:author">
+    <!-- <meta content="{{ site.url }}/about/" property="article:author"> -->
     <meta property="og:image" content="../assets/img/OGImg.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -51,7 +51,7 @@
     {%- endif -%}
 
     <title>{{page.title}} - {{site.heading}}</title>
-    <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+    <!-- <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script> -->
     <link rel="canonical" href="{{site.url}}{{page.url}}" />
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/profile.png">
     <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.png" type="image/png" sizes="16x16" />
@@ -82,7 +82,7 @@
                     {%- else -%}
                             <!--- Show Feed Part -->
                 <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                            <h5 class="meta-title"><a href="/">← Home</a></h5>
+                            <h5 class="meta-title"><a href="/myrrhina">← Home</a></h5>
                             <div class="jumbo">{{page.title}}</div>
                             {%- include FeedContent.html -%}
                             {%- include Feed.html -%}
@@ -94,7 +94,7 @@
             <!--- Notes Feed Layout-->
             {%- if page.feedformat -%}
             <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
+                <h5 class="meta-title"><a href="/myrrhina">← Home</a></h5>
                     <div class="jumbo">{{page.title}}</div>
                     {%- include Content.html -%}
                     {%- include Feed.html -%}
@@ -108,7 +108,7 @@
                             {%- if site.preferences.homepage.enabled -%}
                             <a onclick="window.history.back();">
                             {%- else -%}
-                            <a onclick="window.location.assign('/');">
+                            <a onclick="window.location.assign('/myrrhina');">
                             {%- endif -%}
                                     <h5 class="meta-title">← BACK</h5>
                             </a>
@@ -132,7 +132,7 @@
             <!--- Post Feed Layout-->
             {%- if page.permalink == "/posts" -%}
             <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
+                <h5 class="meta-title"><a href="/myrrhina">← Home</a></h5>
                 <div class="jumbo">{{page.title}}</div>
                     {%- include Content.html -%}
                     {% for post in site.posts %}
@@ -156,7 +156,7 @@
                              {%- if site.preferences.homepage.enabled -%}
                              <a onclick="window.history.back();">
                              {%- else -%}
-                             <a onclick="window.location.assign('/');">
+                             <a onclick="window.location.assign('/myrrhina');">
                              {%- endif -%}
                                      <h5 class="meta-title">← BACK</h5>
                              </a>
