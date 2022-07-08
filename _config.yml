@@ -85,13 +85,19 @@ sass:
   style: compressed
 
 defaults:
+  # - scope:
+  #     path: ""
+  #   values:
+  #     layout: Post
+  #     permalink: /:slug # was :title
+  #     content-type: notes
   - scope:
       path: ""
       type: posts
     values:
       layout: Post
       permalink: /post/:slug # was :title
-      content-type: post
+      content-type: posts
   - scope:
       path: ""
       type: notes
