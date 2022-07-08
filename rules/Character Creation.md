@@ -3,11 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: Post
-type: posts
+# type: posts
 title: Character Creation
-feed: hide
-permalink: /character-creation
-date: 08-07-2022
+# feed: hide
+# permalink: /character-creation
+# date: 08-07-2022
 ---
 
 Character creation mostly follows standard D&D 5E rules (TODO: insert link, or just copy/paste here) with the following changes.

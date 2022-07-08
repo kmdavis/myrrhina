@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Getting Started.md",
+            "file": "rules/House Rules.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Getting Started.md",
+                "file": "rules/House Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "f66920071382c6e5",
   "lastOpenFiles": [
+    "rules/House Rules.md",
+    "rules/Character Creation.md",
     "_notes/Public/Getting Started.md",
     "_notes/Public/House Rules.md",
     "_notes/Public/Markdown Rendered.md",
@@ -96,8 +98,6 @@
     "_notes/Public/What is West Marches?.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
-    "rules/Character Creation.md",
-    "pages/index.md",
-    "pages/lists.md"
+    "pages/index.md"
   ]
 }
