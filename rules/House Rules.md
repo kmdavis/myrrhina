@@ -4,7 +4,7 @@
 
 title: House Rules
 # feed: hide
-# permalink: /house-rules
+permalink: /house-rules
 date: 08-07-2022
 ---
 

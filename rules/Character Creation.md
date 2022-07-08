@@ -6,7 +6,7 @@ layout: Post
 # type: posts
 title: Character Creation
 # feed: hide
-# permalink: /character-creation
+permalink: /character-creation
 date: 08-07-2022
 ---
 
