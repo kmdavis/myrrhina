@@ -1084,7 +1084,7 @@ li .mn-right {
 }
 
 
-.tooltip bottom {
+.tooltip .bottom {
     display: none;
 }
 

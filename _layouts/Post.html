@@ -80,11 +80,6 @@
                     <!--- Show Homepage -->
                     {%- if site.preferences.homepage.custom -%}
                         {%- include Homepage.html -%}
-                    {%- else -%}
-                        <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                            <div class="jumbo">{{page.title}}</div>
-                            {%- include Content.html -%}
-                        </div>
                     {%- endif -%}
                 {%- else -%}
                     <!--- Show Feed Part -->
