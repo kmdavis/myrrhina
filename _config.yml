@@ -53,7 +53,8 @@ preferences:
 # To enable a homepage, change the value to true and add content to _includes/Homepage.html
 # If enable : false, notes feed will be as homepage. 
   homepage: 
-    enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
+    custom: false # If you need a custom homepage, change this to true and edit _includes/Homepage.html
+    enabled: true # If you need a homepage, change this to true and edit pages/index.md
 
 encoding: utf-8
 
@@ -65,11 +66,11 @@ plugins:
   - jekyll-tidy
     
 ## Enable Collections
-## Suggested collects are "notes" "lists" and "blog"
+## Suggested collections are "notes" "lists" and "blog"
 collections:
     notes:
       output: true
-      permalink: /note/:title
+      permalink: /note/:slug # was :title
 
 markdown: kramdown
 
@@ -89,7 +90,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /post/:title
+      permalink: /post/:slug # was :title
       content-type: post
   - scope:
       path: ""

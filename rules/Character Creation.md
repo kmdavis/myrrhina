@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: Page
-contentType: post
+type: post
 title: Character Creation
 feed: hide
 permalink: /character-creation
