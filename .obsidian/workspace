@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "67913c2d21bd58a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66920071382c6e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "rules/Character Creation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e97b467414f63abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e2a379bd0e31f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1636b5e3ae32513",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04581bc658d907ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d7a1ce09aaa4678",
+    "type": "split",
+    "children": [
+      {
+        "id": "590aa4975b7e7ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff16aa98485cbd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rules/Character Creation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f66920071382c6e5",
+  "lastOpenFiles": [
+    "rules/Character Creation.md",
+    "_notes/Public/Getting Started.md",
+    "_notes/Public/House Rules.md"
+  ]
+}
