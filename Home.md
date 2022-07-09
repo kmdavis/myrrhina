@@ -15,7 +15,8 @@ Where will you go? What will you find? Who will you meet? How will you prevail?
 
 Join us now as we explore the Mysteries of Myrrhina!
 
-&ldquo;Ok, where should I start at?&rdquo;
+
+> “Ok, where should I start at?”
 
 - If you're new to D&D, there are a number of good guides that can help you get started.
   - [D&D Beyond: New Players Guide](https://www.dndbeyond.com/tag/new-players-guide)

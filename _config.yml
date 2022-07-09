@@ -86,12 +86,12 @@ sass:
 
 defaults:
   - scope:
-      path: "rules"
+      path: ""
       type: "page"
     values:
       layout: Post
       permalink: /:slug # was :title
-      # content-type: notes
+      content-type: notes
   - scope:
       path: ""
       type: posts
