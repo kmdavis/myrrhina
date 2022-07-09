@@ -7,7 +7,7 @@ layout: Post
 title: Character Creation
 # feed: hide
 permalink: /character-creation
-date: 08-07-2022
+# date: 08-07-2022
 ---
 
 Character creation mostly follows standard D&D 5E rules (TODO: insert link, or just copy/paste here) with the following changes.
