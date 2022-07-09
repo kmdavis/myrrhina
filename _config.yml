@@ -92,6 +92,10 @@ defaults:
       permalink: /:slug # was :title
       content-type: notes
   - scope:
+      path: "assets"
+    values:
+      layout: none
+  - scope:
       path: ""
       type: posts
     values:
