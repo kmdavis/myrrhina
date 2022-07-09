@@ -68,9 +68,9 @@ plugins:
 ## Enable Collections
 ## Suggested collections are "notes" "lists" and "blog"
 collections:
-    notes:
-      output: true
-      permalink: /note/:slug # was :title
+  notes:
+    output: true
+    permalink: /note/:slug # was :title
 
 markdown: kramdown
 
@@ -86,15 +86,12 @@ sass:
 
 defaults:
   - scope:
-      path: ""
+      path: "rules"
+      type: "page"
     values:
       layout: Post
       permalink: /:slug # was :title
-      content-type: notes
-  - scope:
-      path: "assets"
-    values:
-      layout: none
+      # content-type: notes
   - scope:
       path: ""
       type: posts
