@@ -6,7 +6,7 @@ TODO: orbital view
 
 Shubae is
 
-![Shubae Biomes](assets/img/shubae-biomes.gif)
+![Shubae Biomes](../../assets/img/shubae-biomes.png)
 TODO: political map
 
 ### Races of Shubae

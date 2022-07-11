@@ -6,7 +6,7 @@ TODO: orbital view
 
 Khashayar is
 
-![Khashayar Biomes](assets/img/khashayar-biomes.gif)
+![Khashayar Biomes](../../assets/img/khashayar-biomes.png)
 TODO: political map
 
 ### Races of Khashayar

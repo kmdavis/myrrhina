@@ -6,7 +6,7 @@ TODO: orbital view
 
 Mortuus Rex is
 
-![Mortuus Rex Biomes](assets/img/mortuus-rex-biomes.gif)
+![Mortuus Rex Biomes](../../assets/img/mortuus-rex-biomes.png)
 TODO: political map
 
 ### Races of Mortuus Rex

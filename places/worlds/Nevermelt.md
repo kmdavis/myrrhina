@@ -6,7 +6,7 @@ TODO: orbital view
 
 Nevermelt is
 
-![Nevermelt Biomes](assets/img/nevermelt-biomes.gif)
+![Nevermelt Biomes](../../assets/img/nevermelt-biomes.png)
 TODO: political map
 
 ### Races of Nevermelt

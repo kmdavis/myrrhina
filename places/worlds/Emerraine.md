@@ -6,7 +6,7 @@ TODO: orbital view
 
 Emerraine is
 
-![Emerraine Biomes](assets/img/emerraine-biomes.gif)
+![Emerraine Biomes](../../assets/img/emerraine-biomes.png)
 TODO: political map
 
 ### Races of Emerraine

@@ -6,7 +6,7 @@ TODO: orbital view
 
 Langsevain is
 
-![Langsevain Biomes](assets/img/langsevain-biomes.gif)
+![Langsevain Biomes](../../assets/img/langsevain-biomes.png)
 TODO: political map
 
 ### Races of Langsevain

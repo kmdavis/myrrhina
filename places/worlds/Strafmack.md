@@ -6,7 +6,7 @@ TODO: orbital view
 
 Strafmack is
 
-![Strafmack Biomes](assets/img/strafmack-biomes.gif)
+![Strafmack Biomes](../../assets/img/strafmack-biomes.png)
 TODO: political map
 
 ### Races of Strafmack

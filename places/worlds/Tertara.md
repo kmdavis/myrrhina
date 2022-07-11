@@ -6,7 +6,7 @@ TODO: orbital view
 
 Tertara is
 
-![Tertara Biomes](assets/img/tertara-biomes.gif)
+![Tertara Biomes](../../assets/img/tertara-biomes.png)
 TODO: political map
 
 ### Races of Tertara

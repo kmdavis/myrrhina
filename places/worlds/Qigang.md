@@ -6,7 +6,7 @@ TODO: orbital view
 
 Qigang is
 
-![Qigang Biomes](assets/img/qigang-biomes.gif)
+![Qigang Biomes](../../assets/img/qigang-biomes.png)
 TODO: political map
 
 ### Races of Qigang
