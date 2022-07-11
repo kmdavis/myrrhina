@@ -14,22 +14,22 @@ Your choice of race affects where your character is originally from. While Xuart
 
 The Low City is spread across the following eleven worlds, with large populations of certain races:
 
-- Arborisle (Heavily forested)
+- [Arborisle](places/worlds/Arborisle)
 	- Elf, especially Wood Elves
 	- Firbolg
 	- Halfling
 	- Owlin
 	- Satyr
 	- Shifter
-- Profugae (Ruins of an Ecumenopolis, flattened by falling space debris -- NOTE: all races are subterranean because the surface is uninhabitable)
+- [Profugae](places/worlds/Profugae) (Ruins of an Ecumenopolis, flattened by falling space debris -- NOTE: all races are subterranean because the surface is uninhabitable)
 	- Svirneblin
 	- Duergar
 	- Drow
-- Tertara (High Magic World)
+- [Tertara](places/worlds/Tertara) (High Magic World)
 	- Dragonborn
 	- Human
 	- Kobold
-- Shubae (No major continents, just islands, archipelagos, and a few minor continents)
+- [Shubae](places/worlds/Shubae) (No major continents, just islands, archipelagos, and a few minor continents)
 	- Grung
 	- Half-elf
 	- Human
@@ -37,38 +37,38 @@ The Low City is spread across the following eleven worlds, with large population
 	- Triton
 	- Sea Elf
 	- Vedalken
-- Langsevain (Steampunk theme)
+- [Langsevain](places/worlds/Langsevain) (Steampunk theme)
 	- Dwarf
 	- Gnome
 	- Human
 	- Warforged (but called **Steamborn**)
-- Nevermelt (Ice World)
+- [Nevermelt](places/worlds/Nevermelt) (Ice World)
 	- Bugbear
 	- Dwarf
 	- Goliath
 	- Hobgoblin
-- Emerraine (High Tech World)
+- [Emerraine](places/worlds/Emerraine) (High Tech World with no magic)
 	- Gnome
 	- Goblin
 	- Human
-- Khashayar (Desert theme)
+- [Khashayar](places/worlds/Khashayar) (Desert theme)
 	- Human
 	- Leonin
 	- Kalashtar
 	- Yuan-ti
-- Qigang (Asian theme)
+- [Qigang](places/worlds/Qigang) (Asian theme)
 	- Human
 	- Leonin
 	- Loxodon
 	- Tabaxi
-- Strafmack (Highlands / Mountain theme)
+- [Strafmack](places/worlds/Strafmack) (Highlands / Mountain theme)
 	- Dwarf
 	- Goliath
 	- Halfling
 	- Lizardfolk
 	- Minotaur
 	- Owlin
-- Mortuus Rex (Dark Evil -- civilized nations under seige)
+- [[Mortuus Rex]] (Dark Evil -- civilized nations under seige)
 	- Aasimar
 	- Elf, especially High Elves
 	- Half-elf
@@ -109,3 +109,4 @@ And The High City has large populations of the following races (but every race i
 - Elf, especially High Elf
 - Half-elf
 - Human
+

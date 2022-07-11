@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f66920071382c6e5",
+        "id": "46f752eca59152ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rules/Homeworlds of the Races.md",
+            "file": "places/worlds/Tertara.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/Homeworlds of the Races.md",
+                "file": "places/worlds/Tertara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f66920071382c6e5",
+  "active": "46f752eca59152ba",
   "lastOpenFiles": [
-    "rules/Homeworlds of the Races.md",
-    "rules/Character Creation.md",
-    "rules/House Rules.md",
-    "Home.md",
-    "README.md",
-    "_notes/Public/Getting Started.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "pages/lists.md",
-    "pages/404.md"
+    "places/worlds/Tertara.md",
+    "places/worlds/Strafmack.md",
+    "places/worlds/Shubae.md",
+    "places/worlds/Qigang.md",
+    "places/worlds/Profugae.md",
+    "places/worlds/Nevermelt.md",
+    "places/worlds/Mortuus Rex.md",
+    "places/worlds/Langsevain.md",
+    "places/worlds/Emerraine.md",
+    "places/worlds/Khashayar.md"
   ]
 }
