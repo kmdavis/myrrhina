@@ -1,7 +1,6 @@
 ---
 layout: Post
 title: Emerraine
-# feed: hide
 ---
 TODO: orbital view
 

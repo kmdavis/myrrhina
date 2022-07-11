@@ -1,6 +1,5 @@
 ---
 title: Arborisle
-# feed: hide
 ---
 ![[arborisle-orbit.gif]]
 

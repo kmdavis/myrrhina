@@ -1,4 +1,7 @@
 ---
+layout: Post
+title: Khashayar
+permalink: /places/worlds/Khashayar
 ---
 TODO: orbital view
 
