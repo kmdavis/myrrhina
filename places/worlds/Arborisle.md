@@ -7,7 +7,7 @@ permalink: /places/worlds/arborisle
 Arborisle is a world of endless forests.
 
 ![Arborisle Biomes](../../assets/img/arborisle-biomes.png)
-![[arborisle-biomes.png]]
+![[assets/img/arborisle-biomes.png]]
 ![Arborisle Politics](../../assets/img/arborisle-political.png)
 
 ### Races of Arborisle
