@@ -24,4 +24,4 @@ Arborisle is a world of endless forests.
 NOTE: Whereas Renestrae and Ilythyrra are predominantly Elven, Parthenary is predominantly NOT Elven.
 
 Previous world: n/a
-Next world: [Profugae](places/worlds/Profugae)
+Next world: [[Profugae]]

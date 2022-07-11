@@ -14,7 +14,7 @@ Your choice of race affects where your character is originally from. While Xuart
 
 The Low City is spread across the following eleven worlds, with large populations of certain races:
 
-- [Arborisle](places/worlds/Arborisle)
+- [Arborisle](places/worlds/Arborisle) vs [[Arborisle]] vs [[Arborisle|Testing]]
 	- Elf, especially Wood Elves
 	- Firbolg
 	- Halfling
