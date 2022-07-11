@@ -1,10 +1,12 @@
 ---
+title: Tertara
+permalink: /places/worlds/tertara
 ---
 TODO: orbital view
 
 Tertara is
 
-![[tertara-biomes.png]]
+![Tertara Biomes](assets/img/tertara-biomes.gif)
 TODO: political map
 
 ### Races of Tertara

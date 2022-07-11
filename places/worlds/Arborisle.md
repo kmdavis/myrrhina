@@ -1,13 +1,13 @@
 ---
-layout: Post
 title: Arborisle
+permalink: /places/worlds/arborisle
 ---
-![[arborisle-orbit.gif]]
+![Arborisle from Orbit](assets/img/arborisle-orbit.gif)
 
 Arborisle is a world of endless forests.
 
-![[arborisle-biomes.png]]
-![[arborisle-political.png]]
+![Arborisle Biomes](assets/img/arborisle-biomes.gif)
+![Arborisle Politics](assets/img/arborisle-political.gif)
 
 ### Races of Arborisle
 - Elf, especially Wood Elves

@@ -1,13 +1,12 @@
 ---
-layout: Post
 title: Khashayar
-permalink: /places/worlds/Khashayar
+permalink: /places/worlds/khashayar
 ---
 TODO: orbital view
 
 Khashayar is
 
-![[khashayar-biomes.png]]
+![Khashayar Biomes](assets/img/khashayar-biomes.gif)
 TODO: political map
 
 ### Races of Khashayar

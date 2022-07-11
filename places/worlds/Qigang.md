@@ -1,10 +1,12 @@
 ---
+title: Qigang
+permalink: /places/worlds/qigang
 ---
 TODO: orbital view
 
 Qigang is
 
-![[qigang-biomes.png]]
+![Qigang Biomes](assets/img/qigang-biomes.gif)
 TODO: political map
 
 ### Races of Qigang

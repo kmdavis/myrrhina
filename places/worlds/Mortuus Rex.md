@@ -1,10 +1,12 @@
 ---
+title: Mortuss Rex
+permalink: /places/worlds/mortuus-rex
 ---
 TODO: orbital view
 
 Mortuus Rex is
 
-![[mortuus-rex-biomes.png]]
+![Mortuus Rex Biomes](assets/img/mortuus-rex-biomes.gif)
 TODO: political map
 
 ### Races of Mortuus Rex

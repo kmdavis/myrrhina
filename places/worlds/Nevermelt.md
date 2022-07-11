@@ -1,10 +1,12 @@
 ---
+title: Nevermelt
+permalink: /places/worlds/nevermelt
 ---
 TODO: orbital view
 
 Nevermelt is
 
-![[nevermelt-biomes.png]]
+![Nevermelt Biomes](assets/img/nevermelt-biomes.gif)
 TODO: political map
 
 ### Races of Nevermelt

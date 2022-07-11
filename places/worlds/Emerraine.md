@@ -1,12 +1,12 @@
 ---
-layout: Post
 title: Emerraine
+permalink: /places/worlds/emerraine
 ---
 TODO: orbital view
 
 Emerraine is
 
-![[emerraine-biomes.png]]
+![Emerraine Biomes](assets/img/emerraine-biomes.gif)
 TODO: political map
 
 ### Races of Emerraine

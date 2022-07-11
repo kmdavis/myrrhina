@@ -1,10 +1,12 @@
 ---
+title: Strafmack
+permalink: /places/worlds/strafmack
 ---
 TODO: orbital view
 
 Strafmack is
 
-![[strafmack-biomes.png]]
+![Strafmack Biomes](assets/img/strafmack-biomes.gif)
 TODO: political map
 
 ### Races of Strafmack

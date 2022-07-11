@@ -1,10 +1,12 @@
 ---
+title: Shubae
+permalink: /places/worlds/shubae
 ---
 TODO: orbital view
 
 Shubae is
 
-![[shubae-biomes.png]]
+![Shubae Biomes](assets/img/shubae-biomes.gif)
 TODO: political map
 
 ### Races of Shubae

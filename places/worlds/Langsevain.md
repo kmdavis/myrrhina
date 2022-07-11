@@ -1,12 +1,12 @@
 ---
 title: Langsevain
-permalink: /places/worlds/Langsevain
+permalink: /places/worlds/langsevain
 ---
 TODO: orbital view
 
 Langsevain is
 
-![[langsevain-biomes.png]]
+![Langsevain Biomes](assets/img/langsevain-biomes.gif)
 TODO: political map
 
 ### Races of Langsevain

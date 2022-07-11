@@ -1,4 +1,6 @@
 ---
+title: Myrrhina
+permalink: /places/worlds/myrrhina
 ---
 TODO: orbital view
 
