@@ -1,5 +1,5 @@
 ---
-title: Mortuss Rex
+title: Mortuus Rex
 permalink: /places/worlds/mortuus-rex
 ---
 TODO: orbital view
