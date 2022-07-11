@@ -93,6 +93,13 @@ defaults:
       permalink: /:slug # was :title
       content-type: notes
   - scope:
+      path: "places/worlds"
+      type: "page"
+    values:
+      layout: Post
+      permalink: /places/worlds/:slug # was :title
+      content-type: notes
+  - scope:
       path: ""
       type: posts
     values:

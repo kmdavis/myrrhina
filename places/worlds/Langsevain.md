@@ -1,6 +1,6 @@
 ---
 title: Langsevain
-permalink: /places/worlds/Khashayar
+permalink: /places/worlds/Langsevain
 ---
 TODO: orbital view
 

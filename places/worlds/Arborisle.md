@@ -1,4 +1,5 @@
 ---
+layout: Post
 title: Arborisle
 ---
 ![[arborisle-orbit.gif]]
