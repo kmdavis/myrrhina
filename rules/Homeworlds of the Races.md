@@ -14,22 +14,22 @@ Your choice of race affects where your character is originally from. While Xuart
 
 The Low City is spread across the following eleven worlds, with large populations of certain races:
 
-- [Arborisle](places/worlds/Arborisle) vs [[Arborisle]] vs [[Arborisle|Testing]] vs [[Arborisle\|Testing]]
+- [[Arborisle]]
 	- Elf, especially Wood Elves
 	- Firbolg
 	- Halfling
 	- Owlin
 	- Satyr
 	- Shifter
-- [Profugae](places/worlds/Profugae) (Ruins of an Ecumenopolis, flattened by falling space debris -- NOTE: all races are subterranean because the surface is uninhabitable)
+- [[Profugae]] (Ruins of an Ecumenopolis, flattened by falling space debris -- NOTE: all races are subterranean because the surface is uninhabitable)
 	- Svirneblin
 	- Duergar
 	- Drow
-- [Tertara](places/worlds/Tertara) (High Magic World)
+- [[Tertara]] (High Magic World)
 	- Dragonborn
 	- Human
 	- Kobold
-- [Shubae](places/worlds/Shubae) (No major continents, just islands, archipelagos, and a few minor continents)
+- [[Shubae]] (No major continents, just islands, archipelagos, and a few minor continents)
 	- Grung
 	- Half-elf
 	- Human
@@ -37,31 +37,31 @@ The Low City is spread across the following eleven worlds, with large population
 	- Triton
 	- Sea Elf
 	- Vedalken
-- [Langsevain](places/worlds/Langsevain) (Steampunk theme)
+- [[Langsevain]] (Steampunk theme)
 	- Dwarf
 	- Gnome
 	- Human
 	- Warforged (but called **Steamborn**)
-- [Nevermelt](places/worlds/Nevermelt) (Ice World)
+- [[Nevermelt]] (Ice World)
 	- Bugbear
 	- Dwarf
 	- Goliath
 	- Hobgoblin
-- [Emerraine](places/worlds/Emerraine) (High Tech World with no magic)
+- [[Emerraine]] (High Tech World with no magic)
 	- Gnome
 	- Goblin
 	- Human
-- [Khashayar](places/worlds/Khashayar) (Desert theme)
+- [[Khashayar]] (Desert theme)
 	- Human
 	- Leonin
 	- Kalashtar
 	- Yuan-ti
-- [Qigang](places/worlds/Qigang) (Asian theme)
+- [[Qigang]] (Asian theme)
 	- Human
 	- Leonin
 	- Loxodon
 	- Tabaxi
-- [Strafmack](places/worlds/Strafmack) (Highlands / Mountain theme)
+- [[Strafmack]] (Highlands / Mountain theme)
 	- Dwarf
 	- Goliath
 	- Halfling

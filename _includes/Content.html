@@ -98,9 +98,9 @@
             {%- assign url = internal_url_array[forloop.index0] -%}
 
             {%- if url == nil -%}
-                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(1)' | append: '">' | append: title | append: '</a>' -%}
+                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
             {%- elsif url == empty -%}
-                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(2)' | append: '">' | append: title | append: '</a>' -%}
+                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
             {%- else -%}
                 {%- assign post = site.notes | where: 'title',title -%}
 
@@ -130,9 +130,9 @@
             {%- assign header_title = header_link_array[forloop.index0] -%}
 
             {%- if url == nil -%}
-                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(3)' | append: '">' | append: alt_title | append: '</a>' -%}
+                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt_title | append: '</a>' -%}
             {%- elsif url == empty -%}
-                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(4)' | append: '">' | append: alt_title | append: '</a>' -%}
+                {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt_title | append: '</a>' -%}
             {%- elsif header_title == "noheader" -%}
                 {%- assign post = site.notes | where: 'title',title -%}
                 {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
