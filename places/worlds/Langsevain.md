@@ -19,5 +19,6 @@ TODO: political map
 - [Khudealine]
 - [Vezgaxur]
 
-Previous world: [Shubae](places/worlds/Shubae)
-Next world: [Nevermelt](places/worlds/Nevermelt)
+Previous world: [[Shubae]]
+
+Next world: [[Nevermelt]]

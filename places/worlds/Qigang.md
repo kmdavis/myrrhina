@@ -19,5 +19,6 @@ TODO: political map
 - [Daewynn]
 - [Tarbent]
 
-Previous world: [Khashayar](places/worlds/Khashayar)
-Next world: [Strafmack](places/worlds/Strafmack)
+Previous world: [[Khashayar]]
+
+Next world: [[Strafmack]]

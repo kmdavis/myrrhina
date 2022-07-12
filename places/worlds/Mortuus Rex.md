@@ -21,5 +21,6 @@ TODO: political map
 ### Low City Districts
 - Nuzairzad
 
-Previous world: [Strafmack](places/worlds/Strafmack)
-Next world: [Myrrhina](places/worlds/Myrrhina)
+Previous world: [[Strafmack]]
+
+Next world: [[Myrrhina]]

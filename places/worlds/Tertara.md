@@ -19,5 +19,6 @@ TODO: political map
 - [Novorzhev]
 - [Peniculus]
 
-Previous world: [Profugae](places/worlds/Profugae)
-Next world: [Shubae](places/worlds/Shubae)
+Previous world: [[Profugae]]
+
+Next world: [[Shubae]]

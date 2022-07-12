@@ -23,5 +23,6 @@ TODO: political map
 - [Issoire]
 - [Amisra]
 
-Previous world: [Tertara](places/worlds/Tertara)
-Next world: [Langsevain](places/worlds/Langsevain)
+Previous world: [[Tertara]]
+
+Next world: [[Langsevain]]

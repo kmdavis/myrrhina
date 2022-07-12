@@ -17,5 +17,6 @@ Profugae is a world in ruins. Where once technology reigned supreme, and a world
 ### Low City Districts
 - [Athaneli]
 
-Previous world: [Arborisle](places/worlds/Arborisle)
-Next world: [Tertara](places/worlds/Tertara)
+Previous world: [[Arborisle]]
+
+Next world: [[Tertara]]

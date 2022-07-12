@@ -19,5 +19,6 @@ TODO: political map
 - [Jorkarith]
 - [Hallgerd]
 
-Previous world: [Langsevain](places/worlds/Langsevain)
-Next world: [Emerraine](places/worlds/Emerraine)
+Previous world: [[Langsevain]]
+
+Next world: [[Emerraine]]

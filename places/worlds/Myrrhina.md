@@ -9,5 +9,6 @@ Myrrhina is
 ### Low City Districts
 - [Sulveig]
 
-Previous world: [Mortuus Rex](places/worlds/Mortuus Rex)
+Previous world: [[Mortuus Rex]]
+
 Next world: n/a

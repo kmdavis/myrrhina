@@ -20,5 +20,5 @@ TODO: political map
 ### Low City Districts
 - [Ciliren]
 
-Previous world: [Qigang](places/worlds/Qigang)
-Next world: [Mortuus Rex](places/worlds/Mortuus Rex)
+Previous world: [[Qigang]]
+Next world: [[Mortuus Rex]]

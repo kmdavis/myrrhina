@@ -18,5 +18,6 @@ TODO: political map
 - [Rodograd]
 - [Rovigo]
 
-Previous world: [Nevermelt](places/worlds/Nevermelt)
-Next world: [Khashayar](places/worlds/Khashayar)
+Previous world: [[Nevermelt]]
+
+Next world: [[Khashayar]]

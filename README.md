@@ -1,20 +1,14 @@
 #  Mysteries of Myrrhina
 ## A West Marches Experiment for Shopifolk
 
-[Homepage](Home)
+This repo contains documentation and resources for a West Marches style D&D 5E game for Shopifolk.
 
-1. TBD - Skyy Tortle homeworld
-1. TBD - no colonies at all
-2. TBD - trade colony, but no portal
-3. Arborisle - trade colony
-4. Profugae - trade colony, only 1 district, heavily fortified, no surface expansion possible due to environmental hazards
-5. Tertara - some expansionism
-6. Shubae - some expansion to fill the islands they colonize
-7. Langsevain - medium expansionism
-8. Nevermelt - trade colony, no expansion due to cold weather
-9. Emerraine - trade colony, no expansion due to lack of magic
-10. Khashayar - trade colony, some minor expansion, but limited by desert
-11. Qigang - heavy expansionism
-12. Strafmack - heavy expansionism
-13. Mortuus Rex - trade colony, only 1 district, heavily fortified, no expansion possible due to LEGIONS OF EVIL MINIONS
-14. Myrrhina - heavy expansionism
+There are 2 recommended ways to view these docs.
+
+1. https://kmdavis.github.io/myrrhina
+2. Using [Obsidian.md](https://obsidian.md/) (clone the repo and open it up as an Obsidian Vault)
+
+NOTE: this repo/site primarily contains lore & background information that is common knowledge for player characters, homebrew content, and player logs. Other types of information live elsewhere.
+
+1. The passage of time, events, phases of the moons, etc, is tracked using [Fantasy Calendar](https://app.fantasy-calendar.com/calendars/665a0e0e2cb5a1c5205b0c8644220bd1)
+2. Player/Character rosters, currency, shops, etc, are tracked using a [Google Sheet](https://docs.google.com/spreadsheets/d/1HlfwSgHgUOY7bZWSeynKnBQULjUACKC61YuL-0tW0Po/edit#gid=66106856)

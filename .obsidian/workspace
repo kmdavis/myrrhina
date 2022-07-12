@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "places/worlds/Arborisle.md",
+            "file": "places/worlds/Profugae.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/worlds/Arborisle.md",
+                "file": "places/worlds/Profugae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "46f752eca59152ba",
   "lastOpenFiles": [
+    "places/worlds/Profugae.md",
     "places/worlds/Arborisle.md",
+    "places/worlds/Emerraine.md",
+    "README.md",
     "rules/Homeworlds of the Races.md",
     "rules/Character Creation.md",
     "rules/House Rules.md",
     "places/worlds/Tertara.md",
     "places/worlds/Strafmack.md",
-    "places/worlds/Shubae.md",
-    "places/worlds/Qigang.md",
-    "places/worlds/Profugae.md",
-    "places/worlds/Nevermelt.md"
+    "places/worlds/Shubae.md"
   ]
 }

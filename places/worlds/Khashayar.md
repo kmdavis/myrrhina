@@ -19,5 +19,6 @@ TODO: political map
 - [Dhiashrir]
 - [Ghonumi]
 
-Previous world: [Emerraine](places/worlds/Emerraine)
-Next world: [Qigang](places/worlds/Qigang)
+Previous world: [[Emerraine]]
+
+Next world: [[Qigang]]
