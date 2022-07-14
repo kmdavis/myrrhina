@@ -1,8 +1,6 @@
 _site
 .jekyll-cache
-pages/.DS_Store
+# why? ignore pages/tags.md?
 pages/tags.md
-_notes/.obsidian
-_notes/Public/.obsidian
 .DS_Store
 */.DS_Store

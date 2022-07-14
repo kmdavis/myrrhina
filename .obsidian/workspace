@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "places/worlds/Profugae.md",
+            "file": "rules/Skyy Tortle.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/worlds/Profugae.md",
+                "file": "rules/Skyy Tortle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "46f752eca59152ba",
   "lastOpenFiles": [
-    "places/worlds/Profugae.md",
-    "places/worlds/Arborisle.md",
-    "places/worlds/Emerraine.md",
-    "README.md",
-    "rules/Homeworlds of the Races.md",
-    "rules/Character Creation.md",
+    "rules/Skyy Tortle.md",
+    "pages/404.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/What is West Marches?.md",
+    "_notes/Public/Shops.md",
+    "Home.md",
+    "_notes/Public/Getting Started.md",
     "rules/House Rules.md",
-    "places/worlds/Tertara.md",
-    "places/worlds/Strafmack.md",
-    "places/worlds/Shubae.md"
+    "rules/Character Creation.md",
+    "rules/Homeworlds of the Races.md"
   ]
 }

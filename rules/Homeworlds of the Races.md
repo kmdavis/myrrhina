@@ -1,13 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: Post
-# type: posts
 title: Homeworlds of the Races
-# feed: hide
 permalink: /racial-homeworlds
-# date: 08-07-2022
 ---
 
 Your choice of race affects where your character is originally from. While Xuartlek, The High City is home to every race in existence, the worlds it visits are not.

@@ -1,13 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: Post
-# type: posts
 title: Character Creation
-# feed: hide
 permalink: /character-creation
-# date: 08-07-2022
 ---
 
 Character creation mostly follows standard D&D 5E rules (TODO: insert link, or just copy/paste here) with the following changes.
@@ -20,12 +13,62 @@ Before starting a mission, you will need to copy your character sheet from the m
 You can roll for your stats, use the standard array, or point buy. If you roll for your stats, you may choose to use your rolled stats, or use the standard array or point buy, or you may choose to reroll **ONCE**, however, if you reroll, you must choose either the first or second roll, you cannot do standard array or point buy. Please note that a DM must be present for your rolls.
 
 ### Allowed Sources
-All published sources are allowed. Please get approval from a DM before using any UA content. Homebrew content must be approved by the Council of DMs, and if approved, will be made available to all players.
+All published sources are allowed. If there are multiple published versions of the same race/class/feat/item/spell/etc, you should use the newest version. Please get approval from a DM before using any UA content. If the Unearthed Arcana has been replaced by a newer UA or has been officially published, you must use the newer version. Homebrew content must be approved by the [Council of DMs], and if approved, will be made available to all players.
+
+Some races/classes/subclasses
 
 ### Races
-All races are allowed, with the following exceptions:
-- Tortle (replaced with Skyy Tortle)
+All published races are allowed, with the following exceptions:
+- Tortle (replaced with [[Skyy Tortle]])
 
-Your choice of race affects [where your character is from](racial-homeworlds).
+Your choice of race affects [[Homeworlds of the Races\|where your character is from]]
 
+### Subraces
+All published subraces are allowed.
+
+The following setting-specific subraces have been reflavored to fit better:
+- None yet
+
+### Classes
+All published classes are allowed.
+
+NOTE: if your starting class has the Spellcasting feature, you cannot choose [[Emerraine]] as your homeworld.
+
+#### Subclasses
+All published subclasses are allowed.
+
+#### Fighting Styles
+All published fighting styles are allowed.
+
+### Backgrounds
+All published backgrounds are allowed.
+
+The following setting-specific backgrounds have been reflavored to fit better:
+- None yet
+
+### Backstories
+Backstories are optional.
+
+If you do choose to write one, your character will be rewarded 1-50 experience points based on the content.
+
+**Example 1**: If you write "I hail from Khudealine," it will gain your character approximately 1 xp.
+
+**Example 2**: If you write something more in depth "I come from the streets of Khudealine where my father left me to fend for myself, and have lived off the streets for seven years feasting on rats most days and I finally decided to change my destiny and leave," it will gain your character approximately 20-25xp.
+  
+**Example 3**: If you keep it rather simple and meta-y such as "My father left me a longsword +2 and a full plate +3." your character will **not** be accepted.
+
+### Feats
+All published feats are allowed.
+
+### Starting Level
+Everyone starts at level 1.
+
+### Additional Characters
+Every player start with 1 character slot.
+
+You gain an additional character slot when your first character reaches level 5, and again when reaching levels 10, 15 & 20.
+
+If you become a DM, you gain 1 slot.
+
+You are not allowed to play more than 1 character at a time.
 
