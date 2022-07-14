@@ -17,7 +17,7 @@ permalink: /skyy-tortle
 
 _Flight_: You have an innate magical ability to fly, albeit very slowly and cumbersomely. As an action, you can takeoff, and your flying speed is 10ft (and cannot be increased) and requires concentration. As an action, you can land safely, as long as you are touching the ground. If you are knocked prone, unconscious, or otherwise loses concentration, you will fall down (and take falling damage if applicable).
 
-_Perpetual Growth_: You never stop growing, and do not die of old age. As a Skyy Tortle grows, your speed decreases, until eventually, your metabolism almost stops and your mind slows to a crawl.
+_Perpetual Growth_: You never stop growing, and do not die of old age. As a Skyy Tortle grows, your speed decreases, until eventually, your metabolism almost stops and your mind and body slow to a crawl.
 • A young Skyy Tortle (under 15 years) is _Small_ and has a base walking speed of 35ft.
 • A young adult Skyy Tortle (15 - 35 years) is _Medium_ and has a base walking speed of 30ft.
 • A mature adult Skyy Tortle (35 - 65 years) is _Large_ and has a base walking speed of 25ft. 
