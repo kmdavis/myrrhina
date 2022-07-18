@@ -2,12 +2,12 @@
 title: Mortuus Rex
 permalink: /places/worlds/mortuus-rex
 ---
-TODO: orbital view
+![Mortuus Rex from Orbit](../../assets/img/mortuus-rex-orbit.gif)
 
-Mortuus Rex is
+Mortuus Rex is a world under siege. The forces of darkness (mostly) won a thousand years ago, and the last bastion of the light clings to a precarious survival.
 
 ![Mortuus Rex Biomes](../../assets/img/mortuus-rex-biomes.png)
-TODO: political map
+![Mortuus Rex Political](../../assets/img/mortuus-rex-political.png)
 
 ### Races of Mortuus Rex
 - Aasimar

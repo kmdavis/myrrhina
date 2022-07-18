@@ -2,9 +2,9 @@
 title: Strafmack
 permalink: /places/worlds/strafmack
 ---
-TODO: orbital view
+![Strafmack from Orbit](../../assets/img/strafmack-orbit.gif)
 
-Strafmack is
+Strafmack is a world of hardy individualism, steep mountains, and high plateaus.
 
 ![Strafmack Biomes](../../assets/img/strafmack-biomes.png)
 TODO: political map

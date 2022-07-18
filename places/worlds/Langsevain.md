@@ -2,9 +2,9 @@
 title: Langsevain
 permalink: /places/worlds/langsevain
 ---
-TODO: orbital view
+![Langsevain from Orbit](../../assets/img/langsevain-orbit.gif)
 
-Langsevain is
+Langsevain is a world of technology... Steam technology. Artificers have taken over this particular asylum, and the trains are never on time.
 
 ![Langsevain Biomes](../../assets/img/langsevain-biomes.png)
 TODO: political map

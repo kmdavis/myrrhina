@@ -2,9 +2,9 @@
 title: Tertara
 permalink: /places/worlds/tertara
 ---
-TODO: orbital view
+![Tertara from Orbit](../../assets/img/tertara-orbit.gif)
 
-Tertara is
+Tertara is a world of magic, ruled by mages, and some would say, built by mages.
 
 ![Tertara Biomes](../../assets/img/tertara-biomes.png)
 TODO: political map

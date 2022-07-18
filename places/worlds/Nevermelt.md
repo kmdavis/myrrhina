@@ -2,9 +2,9 @@
 title: Nevermelt
 permalink: /places/worlds/nevermelt
 ---
-TODO: orbital view
+![Nevermelt from Orbit](../../assets/img/nevermelt-orbit.gif)
 
-Nevermelt is
+Nevermelt is a world of endless ice and tundra. Only near the equator is farming (and therefore, civilization) possible.
 
 ![Nevermelt Biomes](../../assets/img/nevermelt-biomes.png)
 TODO: political map

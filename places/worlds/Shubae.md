@@ -2,9 +2,9 @@
 title: Shubae
 permalink: /places/worlds/shubae
 ---
-TODO: orbital view
+![Shubae from Orbit](../../assets/img/shubae-orbit.gif)
 
-Shubae is
+Shubae is a world full of islands, where the rule of the sea is supreme, and the true powers lie at the bottom of the ocean.
 
 ![Shubae Biomes](../../assets/img/shubae-biomes.png)
 TODO: political map

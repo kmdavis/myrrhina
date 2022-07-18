@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rules/Skyy Tortle.md",
+            "file": "calendars/Xuartlek Imperial Calendar.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/Skyy Tortle.md",
+                "file": "calendars/Xuartlek Imperial Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "46f752eca59152ba",
   "lastOpenFiles": [
-    "rules/Skyy Tortle.md",
-    "Home.md",
-    "pages/404.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/What is West Marches?.md",
-    "_notes/Public/Shops.md",
-    "_notes/Public/Getting Started.md",
+    "calendars/Myrrhina Prime Calendar.md",
+    "calendars/Xuartlek Imperial Calendar.md",
     "rules/House Rules.md",
     "rules/Character Creation.md",
-    "rules/Homeworlds of the Races.md"
+    "rules/Homeworlds of the Races.md",
+    "rules/Skyy Tortle.md",
+    "places/worlds/Myrrhina.md",
+    "_notes/Public/What is West Marches?.md",
+    "A Week in the Life of an Adventurer.md",
+    "places/worlds/Profugae.md"
   ]
 }

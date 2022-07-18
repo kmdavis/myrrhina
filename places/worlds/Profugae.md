@@ -2,7 +2,7 @@
 title: Profugae
 permalink: /places/worlds/profugae
 ---
-TODO: orbital view
+![Profugae from Orbit](../../assets/img/profugae-orbit.gif)
 
 Profugae is a world in ruins. Where once technology reigned supreme, and a world spanning city was on the cusp of interstellar expansion, the surface of Profugae is now entirely inhospitable to life.
 

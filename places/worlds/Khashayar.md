@@ -2,12 +2,12 @@
 title: Khashayar
 permalink: /places/worlds/khashayar
 ---
-TODO: orbital view
+![Khashayar from Orbit](../../assets/img/khashayar-orbit.gif)
 
-Khashayar is
+Khashayar is a world of endless deserts, where water is more valuable than gold, and where ~~the spice must flow~~ civilization is mostly restricted to the river banks..
 
 ![Khashayar Biomes](../../assets/img/khashayar-biomes.png)
-TODO: political map
+![Khashayar Political](../../assets/img/khashayar-political.png)
 
 ### Races of Khashayar
 - Human

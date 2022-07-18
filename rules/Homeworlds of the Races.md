@@ -14,15 +14,15 @@ The Low City is spread across the following eleven worlds, with large population
 	- Owlin
 	- Satyr
 	- Shifter
-- [[Profugae]] (Ruins of an Ecumenopolis, flattened by falling space debris -- NOTE: all races are subterranean because the surface is uninhabitable)
+- [[Profugae]]
 	- Svirneblin
 	- Duergar
 	- Drow
-- [[Tertara]] (High Magic World)
+- [[Tertara]]
 	- Dragonborn
 	- Human
 	- Kobold
-- [[Shubae]] (No major continents, just islands, archipelagos, and a few minor continents)
+- [[Shubae]]
 	- Grung
 	- Half-elf
 	- Human
@@ -30,38 +30,38 @@ The Low City is spread across the following eleven worlds, with large population
 	- Triton
 	- Sea Elf
 	- Vedalken
-- [[Langsevain]] (Steampunk theme)
+- [[Langsevain]]
 	- Dwarf
 	- Gnome
 	- Human
 	- Warforged (but called **Steamborn**)
-- [[Nevermelt]] (Ice World)
+- [[Nevermelt]]
 	- Bugbear
 	- Dwarf
 	- Goliath
 	- Hobgoblin
-- [[Emerraine]] (High Tech World with no magic)
+- [[Emerraine]]
 	- Gnome
 	- Goblin
 	- Human
-- [[Khashayar]] (Desert theme)
+- [[Khashayar]]
 	- Human
 	- Leonin
 	- Kalashtar
 	- Yuan-ti
-- [[Qigang]] (Asian theme)
+- [[Qigang]]
 	- Human
 	- Leonin
 	- Loxodon
 	- Tabaxi
-- [[Strafmack]] (Highlands / Mountain theme)
+- [[Strafmack]]
 	- Dwarf
 	- Goliath
 	- Halfling
 	- Lizardfolk
 	- Minotaur
 	- Owlin
-- [[Mortuus Rex]] (Dark Evil -- civilized nations under seige)
+- [[Mortuus Rex]]
 	- Aasimar
 	- Elf, especially High Elves
 	- Half-elf
@@ -95,7 +95,7 @@ In addition, The High City itself maintains portals to a few other planes of exi
 	- Githzerai
 
 For a few races, Xuartlek itself is considered their Ancestral Home:
-- Skyy Tortle (Xuartlek himself is a Skyy Tortle)
+- [[Skyy Tortle]] (Xuartlek himself is a Skyy Tortle)
 - Warforged (but called **Steelborn**)
 And The High City has large populations of the following races (but every race in existence can be found in The High City):
 - Dwarf
