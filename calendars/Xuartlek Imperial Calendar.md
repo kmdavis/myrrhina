@@ -49,4 +49,4 @@ The various known worlds have different lengths, and most have at least one nati
 - [[Qigang]]: 334 days
 - [[Strafmack]]: 357 days
 - [[Mortuus Rex]]: 299 days
-- [[Myrrhina]]: 348 days
+- [[Myrrhina]]: 351 days
