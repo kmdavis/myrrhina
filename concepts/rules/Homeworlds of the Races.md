@@ -105,4 +105,3 @@ And The High City has large populations of the following races (but every race i
 - Elf, especially High Elf
 - Half-elf
 - Human
-
