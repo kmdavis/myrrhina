@@ -26,7 +26,7 @@ _A courier hand delivers you a rolled up parchment. Upon opening it, you read th
 > Congratulations! You have been chosen as one of the first adventurers to join this endeavor!
 > 
 > 
-> Please report to the _XS Tyberium_ at Pier 87 in the **Gallago District** of the **High City**, for transportation down to **Sulveig**!
+> Please report to the _XS Tyberium_ at Pier 87 in the **Østre Havn District** of the **High City**, for transportation down to **Sulveig**!
 
 You are hereby invited to join us as we explore the Mysteries of Myrrhina, a West Marches Experiment for Shopifolk!
 

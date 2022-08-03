@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/rules/Homeworlds of the Races.md",
+            "file": "Home.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/rules/Homeworlds of the Races.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46f752eca59152ba",
   "lastOpenFiles": [
-    "places/worlds/Langsevain.md",
+    "_notes/Public/Getting Started.md",
+    "Home.md",
+    "getting-started.md",
     "concepts/rules/Homeworlds of the Races.md",
+    "places/worlds/Langsevain.md",
     "people/races/Forged of Steam and Steel.md",
     "time/calendars/Xuartlek Imperial Calendar.md",
     "places/worlds/Arborisle.md",
-    "Home.md",
     "places/worlds/Tertara.md",
-    "places/worlds/Strafmack.md",
-    "places/worlds/Shubae.md",
-    "places/worlds/Qigang.md"
+    "places/worlds/Strafmack.md"
   ]
 }
