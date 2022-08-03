@@ -2,12 +2,16 @@
 title: Strafmack
 permalink: /places/worlds/strafmack
 ---
-![Strafmack from Orbit](../../assets/img/strafmack-orbit.gif)
-
 Strafmack is a world of hardy individualism, steep mountains, and high plateaus.
 
+![Strafmack from Orbit](../../assets/img/strafmack-orbit.gif)
+
+Biomes:
 ![Strafmack Biomes](../../assets/img/strafmack-biomes.png)
+
 TODO: political map
+
+Colonization of Strafmack began in 430 AF
 
 ### Races of Strafmack
 - Dwarf

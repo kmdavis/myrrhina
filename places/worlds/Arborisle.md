@@ -2,12 +2,17 @@
 title: Arborisle
 permalink: /places/worlds/arborisle
 ---
-![Arborisle from Orbit](../../assets/img/arborisle-orbit.gif)
-
 Arborisle is a world of endless forests.
 
+![Arborisle from Orbit](../../assets/img/arborisle-orbit.gif)
+
+Biomes:
 ![Arborisle Biomes](../../assets/img/arborisle-biomes.png)
+
+Political Map:
 ![Arborisle Politics](../../assets/img/arborisle-political.png)
+
+Colonization of Arborisle began in 80 AF
 
 ### Races of Arborisle
 - Elf, especially Wood Elves

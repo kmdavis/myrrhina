@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rules/Homeworlds of the Races.md",
+            "file": "concepts/rules/Homeworlds of the Races.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/Homeworlds of the Races.md",
+                "file": "concepts/rules/Homeworlds of the Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46f752eca59152ba",
   "lastOpenFiles": [
-    "calendars/Xuartlek Imperial Calendar.md",
-    "calendars/Myrrhina Prime Calendar.md",
-    "rules/House Rules.md",
-    "rules/Character Creation.md",
-    "rules/Homeworlds of the Races.md",
-    "rules/Skyy Tortle.md",
-    "places/worlds/Myrrhina.md",
-    "_notes/Public/What is West Marches?.md",
-    "A Week in the Life of an Adventurer.md",
-    "places/worlds/Profugae.md"
+    "places/worlds/Langsevain.md",
+    "concepts/rules/Homeworlds of the Races.md",
+    "people/races/Forged of Steam and Steel.md",
+    "time/calendars/Xuartlek Imperial Calendar.md",
+    "places/worlds/Arborisle.md",
+    "Home.md",
+    "places/worlds/Tertara.md",
+    "places/worlds/Strafmack.md",
+    "places/worlds/Shubae.md",
+    "places/worlds/Qigang.md"
   ]
 }

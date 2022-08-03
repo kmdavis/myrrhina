@@ -9,7 +9,7 @@ title: Mysteries of Myrrhina
 ![Myrrhina from Orbit](assets/img/myrrhina-orbit.gif)
 ### This is Myrrhina
 
-Myrrhina is a world which has just been discovered by your civilization, and colonization has only just begun. A new Adventurer's Guild has been chartered to explore the unknown wilderness surrounding the new colony, and you are a recruit of that Guild.
+Myrrhina is a world which has just been discovered by Xuartlek, the High City, and colonization has only just begun. A new Adventurer's Guild has been chartered by the Ministry of Colonial Affairs to explore the unknown wilderness surrounding the new colony, and you are a recruit of that Guild.
 
 Where will you go? What will you find? Who will you meet? How will you prevail?
 

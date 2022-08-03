@@ -2,9 +2,13 @@
 title: Myrrhina
 permalink: /places/worlds/myrrhina
 ---
-TODO: orbital view
-
 Myrrhina is
+
+![Myrrhina from Orbit](../../assets/img/myrrhina-orbit.gif)
+
+TODO: Player provided maps
+
+Colonization of Myrrhina began in 500 AF
 
 ### Low City Districts
 - [Sulveig]

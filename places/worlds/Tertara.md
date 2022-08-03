@@ -2,12 +2,16 @@
 title: Tertara
 permalink: /places/worlds/tertara
 ---
-![Tertara from Orbit](../../assets/img/tertara-orbit.gif)
-
 Tertara is a world of magic, ruled by mages, and some would say, built by mages.
 
+![Tertara from Orbit](../../assets/img/tertara-orbit.gif)
+
+Biomes:
 ![Tertara Biomes](../../assets/img/tertara-biomes.png)
+
 TODO: political map
+
+Colonization of Tertara began in 150 AF
 
 ### Races of Tertara
 - Dragonborn

@@ -33,8 +33,9 @@ The Low City is spread across the following eleven worlds, with large population
 - [[Langsevain]]
 	- Dwarf
 	- Gnome
+	- Autognome
 	- Human
-	- Warforged (but called **Steamborn**)
+	- Warforged (but called **[[Forged of Steam and Steel|Steamborn]]**)
 - [[Nevermelt]]
 	- Bugbear
 	- Dwarf
@@ -96,7 +97,7 @@ In addition, The High City itself maintains portals to a few other planes of exi
 
 For a few races, Xuartlek itself is considered their Ancestral Home:
 - [[Skyy Tortle]] (Xuartlek himself is a Skyy Tortle)
-- Warforged (but called **Steelborn**)
+- Warforged (but called **[[Forged of Steam and Steel|Steelborn]]**)
 And The High City has large populations of the following races (but every race in existence can be found in The High City):
 - Dwarf
 - Elf, especially High Elf
