@@ -15,9 +15,9 @@ The Low City is spread across the following eleven worlds, with large population
 	- Satyr
 	- Shifter
 - [[Profugae]]
-	- Svirneblin
-	- Duergar
 	- Drow
+	- Duergar
+	- Svirneblin
 - [[Tertara]]
 	- Dragonborn
 	- Human
@@ -27,8 +27,9 @@ The Low City is spread across the following eleven worlds, with large population
 	- Half-elf
 	- Human
 	- Locathah
-	- Triton
+	- Merfolk
 	- Sea Elf
+	- Triton
 	- Vedalken
 - [[Langsevain]]
 	- Dwarf
@@ -49,6 +50,7 @@ The Low City is spread across the following eleven worlds, with large population
 	- Human
 	- Leonin
 	- Kalashtar
+	- Khenra
 	- Yuan-ti
 - [[Qigang]]
 	- Human

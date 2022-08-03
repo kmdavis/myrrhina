@@ -10,10 +10,6 @@ date: 06-07-2022
 
 ![Myrrhina from Orbit](assets/img/myrrhina-orbit.gif)
 
-* TOC
-{:toc}
-
-{:#setting}
 ### The Setting
 _A courier hand delivers you a rolled up parchment. Upon opening it, you read the following:_
 
@@ -40,7 +36,9 @@ The City of Sulveig is built on the shores of the Sulveig River where the Marlse
 
 ![Sulveig Region](assets/img/sulveig-region-500-03-01.png)
 
-{:#requirements}
 ### What you will need to play this game
 - Discord is used for planning and coordinating activities between missions.
 - Roll20 is used for missions, and is where your character sheet(s) will live.
+
+### Character Creation
+See our [[Character Creation]] rules
