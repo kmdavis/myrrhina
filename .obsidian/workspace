@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/rules/Character Creation.md",
+            "file": "people/races/Forged of Steam and Steel.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/rules/Character Creation.md",
+                "file": "people/races/Forged of Steam and Steel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "46f752eca59152ba",
   "lastOpenFiles": [
-    "concepts/rules/Homeworlds of the Races.md",
-    "people/races/Forged of Steam and Steel.md",
+    "people/races/Skyy Tortle.md",
+    "time/calendars/Xuartlek Imperial Calendar.md",
     "Home.md",
     "concepts/rules/Character Creation.md",
-    "time/calendars/Xuartlek Imperial Calendar.md",
     "people/Council of DMs.md",
+    "people/races/Forged of Steam and Steel.md",
+    "concepts/rules/Homeworlds of the Races.md",
     "people/Council of DMs 1.md",
     "concepts/rules/House Rules.md",
-    "places/worlds/Arborisle.md",
-    "_notes/Public/Getting Started.md"
+    "places/worlds/Arborisle.md"
   ]
 }

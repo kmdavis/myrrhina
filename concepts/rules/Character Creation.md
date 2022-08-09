@@ -20,7 +20,7 @@ Some races/classes/subclasses
 ### Races
 All published races are allowed, with the following exceptions:
 - Tortle (replaced with [[Skyy Tortle]])
-- Warforged (replaced with [[Forged of Steam and Steel|Steamborn and Steelborn]])
+- Warforged (replaced with [[Forged of Steam and Steel\|Steamborn and Steelborn]])
 
 Your choice of race affects [[Homeworlds of the Races\|where your character is from]]
 
